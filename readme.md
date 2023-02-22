@@ -1,5 +1,3 @@
-<h1>UMANG SHAH (uks8451)</h1>
-
 # Part 1.1: DATAPROC USAGE
 
 ## Create directory uks8451-bd23 
